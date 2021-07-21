@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diganto Bhowmik</h1>
 
 - 📫 How to reach me **digantobhowmik@gmail.com**
+- LinkedID **https://www.linkedin.com/in/diganto-bhowmik-243bb91b5/**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DigantoBhowmik)](https://github.com/anuraghazra/github-readme-stats)
 
