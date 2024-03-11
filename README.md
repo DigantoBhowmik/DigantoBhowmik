@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hey, I'm Diganto, a ML Engineer at PolyfinsTech. Expert in Deep Learning, FastAPI, and Python development. Skilled in crafting Flask apps and deploying on Azure. Formerly at Creativitix with ASP.NET, Angular, and MongoDB. Problem-solving enthusiast and open to new opportunities. Let's connect on GitHub for a tech-driven collaboration! 🚀</p>
+<p align="left">👋 Hey, I'm Diganto, a ML Engineer at Polyfins Technology Inc. Expert in Deep Learning, FastAPI, and Python development. Skilled in crafting Flask apps and deploying on Azure. Formerly at Creativitix with ASP.NET, Angular, and MongoDB. Problem-solving enthusiast and open to new opportunities. Let's connect on GitHub for a tech-driven collaboration! 🚀</p>
 
 ###
 
